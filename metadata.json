@@ -1,0 +1,6 @@
+{
+  "name": "Infection Control Dashboard",
+  "description": "Hospital Infection Surveillance & Control Monitoring System for IC Nurses and Physicians (ระบบเฝ้าระวังและควบคุมการติดเชื้อในโรงพยาบาล)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
